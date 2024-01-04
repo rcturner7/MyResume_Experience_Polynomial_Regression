@@ -1,0 +1,52 @@
+{
+  "Databases": {
+    "MongoDB": "0.5",
+    "Mongo Atlas": "0.5",
+    "PostgreSQL": "1",
+    "SQL": "3",
+    "MySQL": "3",
+    "GraphQL": "1",
+    "BigQuery": "0.5",
+    "SQLite": "2"
+  },
+  "Cloud Services": {
+    "Google Cloud": "3",
+    "AWS": "2"
+  },
+  "Programming Languages": {
+    "C": "1",
+    "C++": "0.5",
+    "R": "0.5",
+    "Python": "3",
+    "Java": "1",
+    "Javascript": "3",
+    "CSS": "2",
+    "HTML": "2",
+    "Solidity": "1",
+    "Go": "0.5",
+    "Rust": "2",
+    "Typescript": "2"
+  },
+  "Tools": {
+    "ReactJS": "3",
+    "Django": "3",
+    "Github": "3",
+    "Git": "3",
+    "Selenium": "3",
+    "Flask": "3",
+    "Beautiful Soup": "3",
+    "NodeJS": "3",
+    "NPMJS": "3",
+    "VScode": "3",
+    "PyCharm": "3",
+    "Android Studio": "1",
+    "Open Source": "3"
+  },
+  "Blockchain Tools": {
+    "Truffle": "2",
+    "Ganache": "2",
+    "OpenZepplin": "2",
+    "Infura": "2",
+    "Web3.js": "2"
+  }
+}
